@@ -10,7 +10,7 @@
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/cai512/wordpress-zh_CN-on-replit/main/install.sh)
 ```
-执行上面脚本之前先替换`replit.nix` (建议手动上传)
+
 
 ## 脚本来源
 - [ ] 修改自Github开源项目 [https://github.com/ethanpil/wordpress-on-replit](https://github.com/ethanpil/wordpress-on-replit)
