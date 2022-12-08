@@ -3,7 +3,7 @@
 ## 使用说明
 - 1、replit环境选择`PHP Web Server`
 - 2、点击replit左上角三个点选择show hidden files
-- 3、选择本仓库`replit.nix`内容复制粘贴到replit`replit.nix`  再依次点击run
+- 3、选择本仓库[replit.nix](https://github.com/cai512/wordpress-zh_CN-on-replit/blob/main/replit.nix) 内容复制粘贴到replit`replit.nix`  再依次点击run
 - 4、run后稍微等待Webview界面弹出后点击Stop
 - 5、Console输入clear,粘贴脚本
 - 核心文件 `replit.nix` 和 `install.sh`  
