@@ -1,6 +1,6 @@
 #!/bin/bash
 # Install WordPress 中文版 on Repl.it
-# Copyright © by 舒夏 All Rights Reserved.
+# Copyright © by All Rights Reserved.
 # 2022/12/6 12:27
 # 1. Create a new Repl.it as a PHP Web Server 
 # 2. Update the replit.nix file to include the code in this repo
